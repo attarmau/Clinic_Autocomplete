@@ -1,4 +1,7 @@
 # Autocomplete with Elasticsearch
+<img width="509" alt="Screenshot 2025-04-20 at 1 02 17 PM" src="https://github.com/user-attachments/assets/b967d18f-480e-4ff5-a13e-c4efa3e3fad5" />
+
+
 •	Microservice: search-service
 •	Use case: Product/user/content autocomplete
 •	Backed by: Elasticsearch
@@ -138,7 +141,8 @@ PUT carehero_medical_autocomplete_index
 - Edge Ngram
 - Completion Suggester
 
-https://github.com/soumilshah1995/AutoComplete-Input-Elastic-Search-Python
+Tutorial: [https://github.com/soumilshah1995/AutoComplete-Input-Elastic-Search-Python](https://www.youtube.com/watch?v=gDOu_Su1GqY)
+Referencce:
 https://anandharshit.medium.com/elasticsearch-autocomplete-a-story-worth-telling-7802c3499861
 https://coralogix.com/blog/elasticsearch-autocomplete-with-search-as-you-type/
 https://www.elastic.co/guide/en/elasticsearch/reference/current/search-suggesters.html#completion-suggester
