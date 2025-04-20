@@ -1,5 +1,5 @@
 # Autocomplete with Elasticsearch
-![image](https://github.com/user-attachments/assets/48d60a5b-4585-4492-816a-8536ad66fdf9)
+<img width="769" alt="Screenshot 2025-04-20 at 1 18 55 PM" src="https://github.com/user-attachments/assets/ce34d1e0-bbcd-4ef0-ab7a-253675e9e328" />
 Demo image sourced from Synapse Medicine (https://www.synapse-medicine.com/component/diagnoses-search)
 
 
