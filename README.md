@@ -1,7 +1,7 @@
 # Autocomplete with Elasticsearch
 ![image](https://github.com/user-attachments/assets/48d60a5b-4585-4492-816a-8536ad66fdf9)
 
-Demo Pic from https://www.synapse-medicine.com/component/diagnoses-search
+Demo image sourced from Synapse Medicine (https://www.synapse-medicine.com/component/diagnoses-search)
 
 
 •	Microservice: search-service
